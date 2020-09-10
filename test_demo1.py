@@ -6,4 +6,3 @@ def test_sample1():
 def test_FirstCreditCard():
     msg = "Hello"
     assert msg == "Hello" , "Succesfull"
-
