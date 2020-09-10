@@ -1,0 +1,5 @@
+2020-09-09 10:56:17,152 : CRITICAL : test_logging :This is a critical error
+2020-09-09 11:02:14,512 : INFO : test_logging :This is the info message
+2020-09-09 11:02:14,512 : WARNING : test_logging :This is the warning section
+2020-09-09 11:02:14,512 : ERROR : test_logging :This is an error message
+2020-09-09 11:02:14,512 : CRITICAL : test_logging :This is a critical error
